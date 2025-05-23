@@ -1,0 +1,19 @@
+/* styles.css */
+.container {
+  height: 300px;
+  overflow: hidden;
+  position: relative;
+  background: #f0f0f0;
+  padding: 20px;
+}
+
+.modal {
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 200px;
+  background: white;
+  border: 1px solid #ccc;
+  z-index: 1000;
+  padding: 20px;
+}
